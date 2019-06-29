@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\R5T.NetStandard.Loggings\R5T.NetStandard.Loggings.csproj" />
+    <ProjectReference Include="..\R5T.NetStandard.Logging\R5T.NetStandard.Logging.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
