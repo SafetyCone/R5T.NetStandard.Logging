@@ -1,0 +1,4 @@
+R5T.NetStandard.Loggings - A logging-related library that builds solely on NetStandard functionality.
+
+Goals
+
