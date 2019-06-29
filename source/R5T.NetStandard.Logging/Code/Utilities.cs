@@ -5,6 +5,8 @@ using System.IO;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+using BasicConstants = R5T.NetStandard.Logging.Types.Constants;
+
 
 namespace R5T.NetStandard.Logging
 {
@@ -17,7 +19,7 @@ namespace R5T.NetStandard.Logging
         public static readonly string LoggerCategoryTokenSeparator = Utilities.LoggerCategoryTokenSeparatorChar.ToString();
         public const string DefaultCategoryName = @"Default";
         /// <summary>
-        /// The default log level to use when a log level is required but cannot be provied. Different from <see cref="Constants.DefaultMinimumLogLevel"/>, which is the default minimum log level.
+        /// The default log level to use when a log level is required but cannot be provied. Different from <see cref="BasicConstants.DefaultMinimumLogLevel"/>, which is the default minimum log level.
         /// </summary>
         public const LogLevel DefaultLogLevel = LogLevel.Information;
         public const string DefaultLinePrefix = @"    "; // 4 spaces.
