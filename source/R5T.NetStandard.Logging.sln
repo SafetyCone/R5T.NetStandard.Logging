@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Loggings.Construction", "R5T.NetStandard.Loggings.Construction\R5T.NetStandard.Loggings.Construction.csproj", "{12E0FEC3-39A9-4273-B6C1-21682196E41B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Logging.Construction", "R5T.NetStandard.Logging.Construction\R5T.NetStandard.Logging.Construction.csproj", "{12E0FEC3-39A9-4273-B6C1-21682196E41B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Loggings", "R5T.NetStandard.Loggings\R5T.NetStandard.Loggings.csproj", "{404CD7B8-AAD6-4B9F-A74D-A4C8AA14A1F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Logging", "R5T.NetStandard.Logging\R5T.NetStandard.Logging.csproj", "{404CD7B8-AAD6-4B9F-A74D-A4C8AA14A1F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Loggings.Testing", "R5T.NetStandard.Loggings.Testing\R5T.NetStandard.Loggings.Testing.csproj", "{3EE3A88F-B2B8-4AF7-9034-0D6BEE42474D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.NetStandard.Logging.Testing", "R5T.NetStandard.Logging.Testing\R5T.NetStandard.Logging.Testing.csproj", "{3EE3A88F-B2B8-4AF7-9034-0D6BEE42474D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependencies", "{85A88EBD-4093-4B85-9E22-4C39040C2B44}"
 EndProject
