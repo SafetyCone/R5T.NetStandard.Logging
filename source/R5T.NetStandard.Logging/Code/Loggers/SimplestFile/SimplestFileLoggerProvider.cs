@@ -6,7 +6,7 @@ using Microsoft.Extensions.Options;
 
 using R5T.NetStandard.IO;
 
-using PathUtilities = R5T.NetStandard.IO.Paths.Utilities;
+using PathUtilities = R5T.NetStandard.IO.Paths.UtilitiesExtra;
 using PathUtilitiesExtra = R5T.NetStandard.IO.Paths.UtilitiesExtra;
 
 
