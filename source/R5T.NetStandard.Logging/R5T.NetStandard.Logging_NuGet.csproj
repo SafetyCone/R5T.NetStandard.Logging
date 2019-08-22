@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>1701;1702;1591;1573</NoWarn>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Configuration" Version="2.2.0" />
+    <PackageReference Include="R5T.NetStandard.IO.Paths" Version="0.0.1" />
+    <PackageReference Include="R5T.NetStandard.IO.Types" Version="0.0.1" />
+    <PackageReference Include="R5T.NetStandard.Logging.Types" Version="0.0.1" />
+  </ItemGroup>
+</Project>
